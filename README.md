@@ -26,7 +26,7 @@ To try out an exercise, follow these steps:
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/joechea-aupp/python_self_practice_2.git
+git clone [https://github.com/KimsyTor/Final_Exam_Review.git]
 ```
 
 2. Navigate to the exercise directory.
